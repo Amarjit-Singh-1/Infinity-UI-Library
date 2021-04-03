@@ -8,6 +8,7 @@
   --info-color: #06a4ff;
   --warning-color: #ddb500;
   --danger-color: #fc0b2b;
+  --link-color: rgb(255, 24, 24);
 }
 
 /*Avatar*/
@@ -117,7 +118,7 @@
 
 .btn-link {
   border: none;
-  color: rgb(255, 24, 24);
+  color: var(--link-color);
   background: none !important;
   cursor: pointer;
 }

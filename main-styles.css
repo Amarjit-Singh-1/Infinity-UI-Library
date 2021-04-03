@@ -6,13 +6,6 @@ body {
 }
 
 .navigation-bar {
-  /* margin-top: 0;
-  margin: 0;
-  padding: 0; */
-  /* position: fixed;
-  top: 0; */
-  /* width: 100%;
-  display: block; */
   width: 100vw;
   position: fixed;
   z-index: 10;
@@ -48,7 +41,7 @@ body {
 .navigation-bar-logo {
   color: white;
   width: 5rem;
-  height: 5rem;
+  height: 4rem;
 }
 
 .navigation-bar-links a {
@@ -81,6 +74,10 @@ body {
   justify-content: center;
   margin-left: 12rem;
   z-index: 1;
+}
+
+.container > div {
+  padding-top: 100px;
 }
 
 #Getting-Started {

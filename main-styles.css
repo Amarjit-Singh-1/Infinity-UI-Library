@@ -2,14 +2,13 @@
 
 body {
   font-family: "B612", sans-serif;
-  margin: 0px;
+  margin: 0rem;
 }
-
 
 .parent-div {
   display: flex;
   justify-content: center;
-  padding-top: 100px;
+  padding-top: 6rem;
 }
 
 .menu {
@@ -28,7 +27,7 @@ body {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 10px 10%;
+  padding: 0.7rem 10%;
   background-color: #24252a;
   box-sizing: border-box;
   width: 100%;
@@ -54,7 +53,7 @@ body {
 }
 
 .navigation-bar-links li {
-  padding: 0px 20px;
+  padding: 0rem 1.2rem;
 }
 
 .navigation-bar-links li a {
@@ -75,7 +74,7 @@ body {
 }
 
 .container > div {
-  padding-top: 80px;
+  padding-top: 5.2rem;
 }
 
 #Getting-Started {

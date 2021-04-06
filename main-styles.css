@@ -5,11 +5,6 @@ body {
   margin: 0px;
 }
 
-.navigation-bar {
-  width: 100vw;
-  position: fixed;
-  z-index: 10;
-}
 
 .parent-div {
   display: flex;
@@ -36,6 +31,9 @@ body {
   padding: 10px 10%;
   background-color: #24252a;
   box-sizing: border-box;
+  width: 100%;
+  position: fixed;
+  z-index: 10;
 }
 
 .navigation-bar-logo {

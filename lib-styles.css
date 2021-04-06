@@ -243,6 +243,7 @@
 }
 .spaced-list-item:hover {
   background: lightgrey;
+  cursor: pointer;
 }
 
 .stacked-list {
